@@ -1093,7 +1093,7 @@ platforms:
 > 🚨 We're in the process of moving all examples to the
 > [downshift-examples](https://github.com/downshift-js/downshift-examples) repo
 > (which you can open, interact with, and contribute back to live on
-> [codesandbox](https://codesandbox.io/s/github/kentcdodds/downshift-examples))
+> [codesandbox](https://codesandbox.io/s/github/kentcdodds/downshift-examples?moduleview=1))
 
 > 🚨 We're also in the process of updating our examples from the
 > [downshift-docs](https://github.com/downshift-js/downshift-docs) repo which is
@@ -1144,7 +1144,7 @@ Check out these examples of more advanced use/edge cases:
 
 _🚨 This is a great contribution opportunity!_ These are examples that have not
 yet been migrated to
-[downshift-examples](https://codesandbox.io/s/github/kentcdodds/downshift-examples).
+[downshift-examples](https://codesandbox.io/s/github/kentcdodds/downshift-examples?moduleview=1).
 You're more than welcome to make PRs to the examples repository to move these
 examples over there.
 [Watch this to learn how to contribute completely in the browser](https://www.youtube.com/watch?v=3PAQbhdkTtI&index=2&t=21s&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u)
